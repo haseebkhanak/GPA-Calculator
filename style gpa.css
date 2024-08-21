@@ -1,0 +1,21 @@
+.custom-select{
+    min-width: 80px;
+  }
+
+  .container>table{
+    margin-top: 20px;
+  }
+
+ 
+  #three{
+    display: none;
+  }
+
+  #four{
+    display: none;
+  }
+
+  #text{
+    text-shadow: 3px 3px 4px rgb(102, 41, 41);
+  }
+
